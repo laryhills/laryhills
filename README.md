@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laryhills
 - 👀 I’m interested in Svelte, React JS, Node JS , Python , PHP
-- 🌱 I’m currently learning Svelte,  Blockchain
+- 🌱 I’m currently learning Svelte, ReactNative, Blockchain
 - 💞️ I’m looking to collaborate on Web Dev and other projects
 - 📫 contact me via email - hilaryokoh@gmail.com , on facebook 
 
