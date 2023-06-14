@@ -33,7 +33,7 @@
 <a href="http://www.github.com/laryhills"><img src="https://github-readme-stats-snowy-nu.vercel.app/api?username=laryhills&theme=algolia&show_icons=true" alt="LaryHills GitHub stats" /></a>
 </p>
  <p align='center'>
- <a href="http://www.github.com/laryhills"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laryhills&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+ <a href="http://www.github.com/laryhills"><img src="https://github-readme-streak-stats-laryhills.vercel.app/?user=laryhills&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
  </p>
 
 
